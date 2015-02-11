@@ -1,6 +1,10 @@
-<h1>A colour-coded thermostat app written in JavaScript.</h1>
+<h1>JavaScript Thermostat</h1>
 
-*specifications:*
+<h2>Makers Academy week 7 - javascript and TDD</h2>
+
+*A colour-coded thermostat app written in JavaScript*
+
+specifications:
 <ol>
 <li>Thermostat starts at 20 degrees</li>
 <li>You can increase the temp with the up button</li>
@@ -13,3 +17,11 @@
 <li>The thermostat should colour the display based on energy usage - < 18 is green, < 25 is yellow, otherwise it's red.</li>
 <li>After every temperature change, the thermostat makes a POST request to localhost:4567/temperature_change, with the new temperature.</li>
 </ol>
+
+<h3>Technologies used</h3>
+
+- HTML5
+- CSS3
+- Javascript
+- jQuery
+- Jasmine (TDD)
