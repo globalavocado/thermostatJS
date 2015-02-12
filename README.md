@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/globalavocado/thermostatJS/badges/gpa.svg)](https://codeclimate.com/github/globalavocado/thermostatJS)
+
 <h1>JavaScript Thermostat</h1>
 
 <h2>Makers Academy week 7 - javascript and TDD</h2>
